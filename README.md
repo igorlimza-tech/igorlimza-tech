@@ -313,7 +313,6 @@ $ echo "Progresso contínuo. Sistema em evolução constante."
 
 </div>
 
-> ⚙️ Para ativar a Snake Animation acima, configure o GitHub Action oficial [`Platane/snk`](https://github.com/Platane/snk) no seu repositório de perfil (`igorlimza-tech/igorlimza-tech`). O workflow gera automaticamente o SVG usado nesta seção.
 
 <br/>
 
